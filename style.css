@@ -72,3 +72,18 @@ span{
 .menu-part{
     text-align: left;
 }
+.last-part{
+    display:flex;
+    border: 5px solid white;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 10px 0 10px;
+}
+.last-portion{
+    width: 30%;
+    margin-left: 3.5%;
+}
+.last-section{
+    margin: 100px 0;
+    box-shadow: 10px 10px 60px #888888;
+}
