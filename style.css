@@ -55,7 +55,7 @@ span{
     width: 100%;
 }
 .food{
-    box-shadow: 10px 10px 60px #888888;
+    box-shadow: 10px 10px 40px #888888;
     border: 5px solid white;
     border-radius: 20px;
     margin-right: 60px;
@@ -74,10 +74,8 @@ span{
 }
 .last-part{
     display:flex;
-    border: 5px solid white;
-    border-radius: 20px;
+    
     text-align: center;
-    margin: 0 10px 0 10px;
 }
 .last-portion{
     width: 30%;
@@ -85,5 +83,22 @@ span{
 }
 .last-section{
     margin: 100px 0;
-    box-shadow: 10px 10px 60px #888888;
+    box-shadow: 10px 10px 40px #888888;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 20px;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: #afa5a5;
+    padding: 20px;
+}
+footer span{
+    color: tomato;
+}
+footer h1{
+    color: #888888;
 }
