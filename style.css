@@ -51,3 +51,24 @@ span{
     background-image: url(images/shapes/7.png);
     padding: 100px;
 }
+.food img{
+    width: 100%;
+}
+.food{
+    box-shadow: 10px 10px 60px #888888;
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-right: 60px;
+    text-align: center;
+}
+.food-part-heading{
+    text-align: center;
+    padding-top: 40px;
+}
+.food-portion{
+    margin-left: 80px;
+    padding: 10px;
+}
+.menu-part{
+    text-align: left;
+}
