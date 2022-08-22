@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+#hading{
+    font-size: 60px;
+}
+
+.first-part{
+    display: flex;
+    
+}
+.half-width h1{
+    font-weight: 700;
+}
+.half-width{
+    width: 50%;
+    margin-left: 50px;
+
+}
+.header-part{
+    margin-top: 10px;
+}
+.link-up{
+    text-decoration: none;
+    font-size: 12px;
+    padding: 10px 17px 10px 17px;
+    border-radius: 20px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(241, 140, 25) 10px, tomato 30px);
+}
+.half-width img{
+    width: 90%;
+}
+.female img{
+    width: 40%;
+    margin-left: 50px;
+}
+.female{
+    margin-top: 50px;
+}
+span{
+    color: orange;
+}
+.first-part{
+    margin-top: 60px;
+}
+
+.middle-part{
+    background-image: url(images/shapes/7.png);
+    padding: 100px;
+}
